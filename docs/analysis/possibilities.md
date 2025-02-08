@@ -1,7 +1,7 @@
 Links  
 ---
-Docker networking: https://www.youtube.com/watch?v=bKFMS5C4CG0
-Apache zookeeper: https://medium.com/@shivajiofficial5088/apache-zookeeper-crucial-to-quidditch-of-distributed-system-design-beab0e99d452  
+- Docker networking: https://www.youtube.com/watch?v=bKFMS5C4CG0
+- Apache zookeeper: https://medium.com/@shivajiofficial5088/apache-zookeeper-crucial-to-quidditch-of-distributed-system-design-beab0e99d452  
 
 Include  
 ---
